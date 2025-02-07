@@ -45,3 +45,6 @@ Titles, Labels, and Tooltips are added to every visual to ensure that all data p
 Colors are customized to differentiate between Revenue and Profit and to highlight key data.
 
 [Sales report.pdf](https://github.com/user-attachments/files/18709293/Sales.report.pdf)
+![Image](https://github.com/user-attachments/assets/87f59ae8-671e-41d5-8949-8afd2c8a137a)
+
+![Image](https://github.com/user-attachments/assets/79898ab6-3b34-425d-894e-bc41ed3e13f2)
