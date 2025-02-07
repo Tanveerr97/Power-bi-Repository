@@ -44,4 +44,4 @@ Conditional Formatting is applied to Profit Margin and Revenue to highlight posi
 Titles, Labels, and Tooltips are added to every visual to ensure that all data points are easy to interpret.
 Colors are customized to differentiate between Revenue and Profit and to highlight key data.
 
-<!-- Uploading "Sales report.pdf"... -->
+[Sales report.pdf](https://github.com/user-attachments/files/18709293/Sales.report.pdf)
